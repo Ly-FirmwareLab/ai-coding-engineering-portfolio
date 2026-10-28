@@ -2,13 +2,13 @@
 
 > 会写固件的 Agent 工程师 · 能碰硬件的 Vibe Coder
 
-> 主仓库 [GitHub](https://github.com/LY-1157799217/ai-coding-engineering-portfolio)
+> 主仓库 [GitHub](https://github.com/Ly-FirmwareLab/ai-coding-engineering-portfolio)
 > 国内镜像访问：[Gitee](https://gitee.com/LY115LY/ai-coding-engineering-portfolio)
 > 两个仓库保持同步更新，国内访问建议使用 Gitee 镜像。
 
 ## 📖 在线查看
 
-**🌐 [GitHub Pages 在线展示](https://ly-1157799217.github.io/ai-coding-engineering-portfolio/)**（推荐）
+**🌐 [GitHub Pages 在线展示](https://ly-firmwarelab.github.io/ai-coding-engineering-portfolio/)**（推荐）
 
 一页式精美展示，包含：
 - 两个项目的 12 项核心工程指标
@@ -48,8 +48,8 @@ ai-coding-engineering-portfolio/
 
 ## 🔗 相关项目
 
-- [ESP32 桌面智能显示终端](https://github.com/LY-1157799217/Visual-desktop-TV-decoration) · [Gitee 镜像](https://gitee.com/LY115LY/Visual-desktop-TV-decoration)
-- [树莓派 MQTT 智能中控](https://github.com/LY-1157799217/mqtt-edge-hub) · [Gitee 镜像](https://gitee.com/LY115LY/mqtt-edge-hub)
+- [ESP32 桌面智能显示终端](https://github.com/Ly-FirmwareLab/Visual-desktop-TV-decoration) · [Gitee 镜像](https://gitee.com/LY115LY/Visual-desktop-TV-decoration)
+- [树莓派 MQTT 智能中控](https://github.com/Ly-FirmwareLab/mqtt-edge-hub) · [Gitee 镜像](https://gitee.com/LY115LY/mqtt-edge-hub)
 
 ## 📊 核心数据摘要
 
